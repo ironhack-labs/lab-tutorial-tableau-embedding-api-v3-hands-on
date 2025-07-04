@@ -1,6 +1,6 @@
-<!-- ![IronHack_Logo](https://user-images.githubusercontent.com/92721547/180665853-e52e3369-9973-4c1e-8d88-1ecef1eb8e9e.png)
+![IronHack_Logo](https://user-images.githubusercontent.com/92721547/180665853-e52e3369-9973-4c1e-8d88-1ecef1eb8e9e.png)
 
-# Self-Guided Lab | Tableau Embedding API v3 Hands-On Tutorial -->
+# Lab | Tutorial: Tableau Embedding API v3 Hands-On
 
 This self-guided lab is a hands-on introduction to embedding Tableau dashboards in a web page using Tableau Embedding API v3.  
 
